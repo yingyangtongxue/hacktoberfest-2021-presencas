@@ -23,7 +23,7 @@ Acesse http://localhost:5000
 ## Contribuições
 
 Pull requests são bem-vindas! Por favor, [crie uma discussão](https://github.com/fct-coders/hacktoberfest-2021-presencas/discussions) (discussion) para discorrer sobre a mudança antes de realizá-la.  
-Lembre-se de ler as [guidelines de contribuição](CONTRIBUTING.md) e o nosso [Código de Conduta](CODE_OF_CONDUCT.md).
+Lembre-se de ler o [guia de contribuição](CONTRIBUTING.md) (contributing guidelines) e o nosso [código de conduta](CODE_OF_CONDUCT.md) (code of conduct).
 
 ## Licença
 
