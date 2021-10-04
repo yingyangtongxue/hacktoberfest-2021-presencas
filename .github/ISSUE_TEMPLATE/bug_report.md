@@ -1,40 +1,24 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: 🐞 Reportar um erro
+description: Reporte algo que não está funcionando.
+labels: [bug]
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+body:
+- type: markdown
+  attributes:
+    value: |
+      **Orientações:**
+      - Verifique nas [issues existentes](https://github.com/fct-coders/hacktoberfest-2021-presencas/issues?q=is%3Aissue) se este bug já não foi reportado.
+      - Se você quiser fazer uma pergunta ou sugestão, em vez de reportar um bug, por favor, use as [discussões](https://github.com/fct-coders/hacktoberfest-2021-presencas/discussions).
+      - Escreva um título descritivo. Evite títulos genéricos ou vagos, tais como "Não está funcionando" ou "Achei um problema".
+      - Mantenha sua issue centrada em um único problema. Se você tiver vários relatórios de bugs, por favor, crie issues separadas para cada um deles.
+      - Forneça o máximo de contexto possível. Inclua capturas de tela, gravações de tela, links, referências ou qualquer outra coisa que você possa considerar relevante.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
-
--   OS: [e.g. iOS]
--   Browser [e.g. chrome, safari]
--   Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
-
--   Device: [e.g. iPhone6]
--   OS: [e.g. iOS8.1]
--   Browser [e.g. stock browser, safari]
--   Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+- type: textarea
+  attributes:
+    label: Detalhes
+    description: Explicação clara e completa do bug.
+    placeholder: Vi que na parte X que o item Y se comporta de maneira Z, mas deveria comportar-se de maneira α.
+  validations:
+    required: true
