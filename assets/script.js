@@ -1,6 +1,7 @@
 //import contributors from "./data/_contributors.json"
 
 const API_URL = 'https://api.github.com/users/';
+const GITHUB_URL = 'https://github.com/';
 
 const contributor_section = document.getElementById('section-contributors');
 
@@ -22,7 +23,6 @@ const make_contributor = async (user) => {
   const user_data = await get_user_data(user.username);
   const contributor = {
     ...user,
-    avatar_url: user_data.avatar_url,
     name: user_data.name,
   };
   return contributor;
@@ -31,13 +31,13 @@ const make_contributor = async (user) => {
 const create_contributor_card = (user) => {
   let lang_list = '';
   user.languages.forEach((lang) => {
-    lang_list += `<li class="lang">${lang}</li>`;
+    if (lang != "") {  
+        lang_list += `<li class="lang">${lang}</li>`;
+    }
   });
   const cardHTML = `
             <div>
-                <img class="avatar" src="${user.avatar_url}" alt="${
-    user.name
-  }" />
+            <img class="avatar" src="${GITHUB_URL + user.username + '.png'}" alt="${user.username}" />
             </div>
             <div class="user-info">
                 <h2>${user.name || user.username}</h2>
@@ -69,7 +69,7 @@ const list_contributors = () => {
 list_contributors();
 
 function abrirMenu() {
-  var nav = document.getElementById('nav-wrapper');
+  let nav = document.getElementById('nav-wrapper');
   if (nav.className === 'nav-wrapper') {
     nav.className += ' responsive';
   } else {

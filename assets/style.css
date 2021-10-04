@@ -5,11 +5,6 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   background-color: var(--site-bg);
-  background-image: linear-gradient(
-    13deg,
-    var(--site-bg) 0%,
-    var(--site-card-bg-dark) 74%
-  );
 }
 
 @media screen and (max-width: 500px) {
@@ -24,6 +19,18 @@ html {
   }
 }
 
+@font-face {
+            font-family: Poppins;
+            src: url(https://cdn.jsdelivr.net/gh/fct-coders/hacktoberfest-2021-presencas@main/assets/Poppins/Poppins-Regular.woff2);
+            font-weight: 400;
+        }
+
+@font-face {
+            font-family: Poppins;
+            src: url(https://cdn.jsdelivr.net/gh/fct-coders/hacktoberfest-2021-presencas@main/assets/Poppins/Poppins-Bold.woff2);
+            font-weight: 700;
+        }
+
 * {
   text-rendering: optimizeLegibility;
 }
@@ -34,10 +41,10 @@ html {
 }
 
 :root {
-  --site-bg: #072540;
-  --site-card-bg-dark: #173c5d;
-  --site-card-bg-light: #6d9dc5;
-  --site-text: #92c2db;
+  --site-bg: #F4F0E2;
+  --site-card-bg-dark: #2b3531;
+  --site-card-bg-light: #2b3531;
+  --site-text: #2b3531;
   --site-highlight: #ff8ae2;
   --site-text-default: #eeeeee;
   --site-highlight-dark: #924668;
@@ -48,7 +55,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins','Helvetica Neue', 'Helvetica', 'Roboto', 'Arial', sans-serif;
   margin: 0;
   color: #fff;
 }
@@ -61,33 +68,33 @@ header {
 }
 
 #nav-logo {
-  content: url(https://hacktoberfest.digitalocean.com/assets/h-light-833607d3b00215da03d184b4123e92b82478d565ab73161880dfe02f04bbeddc.svg);
+  content: url(https://i.imgur.com/1MEywfd.png);
   width: 50px;
   margin-left: 30px;
-  padding: 7px;
+  padding: 5px;
 }
 
 .navbar {
   width: 100vw;
   height: 60px;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: #dbe8d9;
   align-items: center;
 }
 
 .navbar a {
-  color: #f2f2f2;
+  color: #2b3531;
   float: left;
   text-align: center;
   padding: 20px 16px;
-  text-decoration: none;
   font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 .navbar a:hover {
-  background-color: #fdfdfd;
-  color: black;
-  transform: scale(1.1);
-  transition: transform 0.1s;
+  color: #F74700;
+  transition: .3s;
+  text-decoration: none;
 }
 
 .navbar .icone {
@@ -117,8 +124,8 @@ header {
   }
 
   .nav-wrapper.responsive a {
-    background-color: #0d2133;
-    color: #fff;
+    background-color: #dbe8d9;
+    color: #2b3531;
     transform: scale(1);
     float: none;
     text-align: left;
@@ -154,12 +161,8 @@ input:focus {
 }
 
 .card {
-  background-image: linear-gradient(
-    315deg,
-    var(--site-card-bg-dark) 0%,
-    var(--site-card-bg-light) 100%
-  );
-  border-radius: 20px;
+  background-color: #677663;
+  border-radius: 0;
   box-shadow: 0px 2px 20px rgba(61, 27, 43, 0.1);
   display: flex;
   padding: 3rem;
