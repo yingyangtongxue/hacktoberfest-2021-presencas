@@ -1,6 +1,6 @@
 ---
 name: 🐞 Reportar um erro
-description: Reporte algo que não está funcionando.
+about: Reporte algo que não está funcionando.
 labels: [bug]
 ---
 
