@@ -1,140 +1,14 @@
 [
   {
-    "about": "Hacktoberfest boys",
-    "languages": ["Python", "Go", "Rust"],
     "username": "deadpyxel",
-    "year": "2012"
+    "about": "Hacktoberfest boys",
+    "year": "2012",
+    "languages": ["Python", "Go", "Rust"]
   },
   {
-    "about": "O jogo",
-    "languages": ["C", "C#", "Java", "GML"],
-    "username": "Willendes",
-    "year": "2018"
-  },
-  {
-    "about": "Al\u00f4... oi?",
-    "languages": ["Javascript", "Python"],
-    "username": "ga-sr",
-    "year": "2018"
-  },
-  {
-    "about": "Sei l\u00e1...",
-    "languages": ["Javascript"],
-    "username": "ViniciusPolachini",
-    "year": "2019"
-  },
-  {
-    "about": "A little pixel on screen",
-    "languages": ["Python", "JS", "C"],
-    "username": "pvicari",
-    "year": "2013"
-  },
-  {
-    "about": "Pruuu",
-    "languages": ["C++", "Go", "Rust", "Javascript"],
-    "username": "vinijabes",
-    "year": "2017"
-  },
-  {
-    "about": "Sobrevivente",
-    "languages": ["js", "React"],
-    "username": "gabriel-github",
-    "year": "2019"
-  },
-  {
-    "about": "Just another day?",
-    "languages": ["C", "C++", "Python"],
-    "username": "GuiCT49",
-    "year": "2020"
-  },
-  {
-    "about": "I wanna get out of Mr Piteri's wild ride!",
-    "languages": ["Java", "C", "R"],
-    "username": "CaduSantana",
-    "year": "2020"
-  },
-  {
-    "about": "I have no idea what I am doing.",
-    "languages": ["C", "Python", "Javascript"],
-    "username": "ZagoPedro",
-    "year": "2020"
-  },
-  {
-    "about": "Roi",
-    "languages": ["Python", "Java", "C", "JS"],
-    "username": "LeandroH9",
-    "year": "2019"
-  },
-  {
-    "about": "i use arch btw",
-    "languages": ["Python", "Typescript", "Go"],
-    "username": "glyve99",
-    "year": "2018"
-  },
-  {
-    "about": "tres pratos de trigo para tres tigres tristes",
-    "languages": ["C"],
-    "username": "FOX6683",
-    "year": "2020"
-  },
-  {
-    "about": "I like  coffee",
-    "languages": ["JS"],
-    "username": "karenalmeida18",
-    "year": "2019"
-  },
-  {
-    "about": "SOFRO, \u00c9 aquele ditado: errar \u00e9 humano, mas permanecer no erro \u00e9 dif\u00edcil! -BRASIL, In\u00eas.",
-    "languages": ["C", "Java"],
-    "username": "GabrielaSinastre",
-    "year": "2020"
-  },
-  {
-    "about": "\ud83d\ude44",
-    "languages": [""],
     "username": "Yudi",
-    "year": "2020"
-  },
-  {
-    "about": "Ol\u00e1",
-    "languages": ["C", "C++"],
-    "username": "Prado27",
-    "year": "2019"
-  },
-  {
-    "about": "Code like a girl",
-    "languages": ["JavaScript", "ReactJs"],
-    "username": "GiuliaCampos",
-    "year": "2016"
-  },
-  {
-    "about": "Jojofag",
-    "languages": ["Java", "C"],
-    "username": "gustavozaia",
-    "year": "2019"
-  },
-  {
-    "about": "We\u2019re bigger than we ever dreamed",
-    "languages": ["Java", "JS", "Python"],
-    "username": "DanielThemoteo",
-    "year": "2018"
-  },
-  {
-    "about": "M\u00e3e, t\u00f4 no Hacktoberfest!",
-    "languages": ["C", "Flutter", "Elixir"],
-    "username": "gustavobecelli",
-    "year": "2020"
-  },
-  {
-    "about": "Hello World!",
-    "languages": ["C", "Python", "Javascript"],
-    "username": "Daviiro",
-    "year": "2000"
-  },
-  {
-    "about": "Nada muito relevante",
-    "languages": ["C", "Java", "JS"],
-    "username": "MinorLess",
-    "year": "2019"
+    "about": "É virose",
+    "year": "2020",
+    "languages": [""]
   }
 ]
