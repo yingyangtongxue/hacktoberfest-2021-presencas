@@ -1,8 +1,8 @@
-# Presenças do Hacktoberfest 2020
+# Presenças do Hacktoberfest 2021
 
-![](imgForReadme.png)
+![](assets/imgForReadme.png)
 
-Esse repo contém o código fonte para o livro de presenças do Hacktoberfest 2020, disponível em [http://fct-hacktober2020.surge.sh/](http://fct-hacktober2020.surge.sh/).
+Esse repo contém o código fonte para o livro de presenças do Hacktoberfest 2021, disponível em [http://fct-hacktober2020.surge.sh/](http://fct-hacktober2020.surge.sh/).
 
 ## Instalação para desenvolvimento
 
