@@ -19,8 +19,8 @@ git clone https://github.com/USER/hacktoberfest-presencas.git
 {
     "username": "daenerystargaryem",
     "about": "Queen of Meereen, Khaleesi of the Great Grass Sea, Mother of Dragons, The Unburnt, Breaker of Chains, Television, Queen of the Andals and the First Men, Protector of the Seven Kingdoms, Lady of Dragonstone",
-    "languages": ["High-Valirian"],
-    "year": "2005"
+    "year": "2005",
+    "languages": ["High-Valirian"]
 }
 ```
 
