@@ -1,6 +1,6 @@
 ---
-name: ✨ Solicitar novo recurso
-about: Sugira uma ideia para este projeto
+name: ✨ Solicitar um novo recurso
+about: Sugira uma ideia para este projeto.
 labels: 'enhancement'
 ---
 
