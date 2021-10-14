@@ -1,24 +1,10 @@
 # Presenças do Hacktoberfest 2021
 
-![](assets/imgForReadme.png)
+![](assets/websiteScreenshot.png)
+<img src="https://raw.githubusercontent.com/fct-coders/hacktoberfest-2021-presencas/main/assets/websiteScreenshot.png)" max-width="350" />
+https://raw.githubusercontent.com/fct-coders/hacktoberfest-2021-presencas/main/assets/imgForReadme.png
 
-Esse repositório (repo) contém o código fonte para o livro de presenças do Hacktoberfest 2021, disponível em [http://fct-hacktober2020.surge.sh/](http://fct-hacktober2020.surge.sh/).
-
-## Instalação para desenvolvimento
-
-Instale o pacote serve através de
-
-```bash
-npm install -g serve
-```
-
-Execute
-
-```bash
-serve .
-```
-
-Acesse http://localhost:5000
+Esse repositório (repo) contém o código fonte para o livro de presenças do Hacktoberfest 2021, disponível em [http://fct-hacktober-2021.surge.sh/](http://fct-hacktober-2021.surge.sh/).
 
 ## Contribuições
 
