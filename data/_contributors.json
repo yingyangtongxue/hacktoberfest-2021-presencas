@@ -1,20 +1,8 @@
 [
   {
-    "username": "deadpyxel",
-    "about": "Hacktoberfest boys",
-    "year": "2012",
-    "languages": ["Python", "Go", "Rust"]
-  },
-  {
     "username": "Yudi",
     "about": "É virose",
     "year": "2020",
     "languages": [""]
-  },
-  {
-    "username": "rafael-rosseto",
-    "about": "teste",
-    "year": "2019",
-    "languages": ["teste"]
   }
 ]
