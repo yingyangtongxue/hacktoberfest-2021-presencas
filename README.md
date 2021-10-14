@@ -1,6 +1,6 @@
 # Presenças do Hacktoberfest 2021
 
-<img src="https://raw.githubusercontent.com/fct-coders/hacktoberfest-2021-presencas/main/assets/websiteScreenshot.png)" style="max-width: 350px" />
+<img src="https://raw.githubusercontent.com/fct-coders/hacktoberfest-2021-presencas/main/assets/websiteScreenshot.png" style="max-width: 350px" />
 
 Esse repositório (repo) contém o código fonte para o livro de presenças do Hacktoberfest 2021, disponível em [http://fct-hacktober-2021.surge.sh/](http://fct-hacktober-2021.surge.sh/).
 
