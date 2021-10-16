@@ -34,5 +34,11 @@
     "about": "Horinhas pllz",
     "year": "2018",
     "languages": ["Javascript", "Java", "Dart", "Python"]
+  },
+  {
+    "username": "GabrielaSinastre",
+    "about": "Só sei que nada sei",
+    "year": "2019",
+    "languages": ["Javascript", "C"]
   }
 ]
