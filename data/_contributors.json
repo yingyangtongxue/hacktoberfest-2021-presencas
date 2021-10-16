@@ -10,5 +10,11 @@
     "about": "É virose",
     "year": "2020",
     "languages": [""]
+  },
+  {
+    "username": "ga-sr",
+    "about": "Vamo tentar completar as horas complementares",
+    "year": "2018",
+    "languages": ["Javascript", "Python"]
   }
 ]
