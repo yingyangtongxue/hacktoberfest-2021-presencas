@@ -16,5 +16,11 @@
     "about": "Vamo tentar completar as horas complementares",
     "year": "2018",
     "languages": ["Javascript", "Python"]
+  },
+  {
+    "username": "maykborgs",
+    "about": "Hi :D",
+    "year": "2019",
+    "languages": ["Javascript"]
   }
 ]
