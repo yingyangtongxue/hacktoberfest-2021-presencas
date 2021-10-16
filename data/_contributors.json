@@ -1,5 +1,11 @@
 [
   {
+    "username": "rafael-rosseto",
+    "about": "Hack-time!",
+    "year": "2019",
+    "languages": ["c, c++, qt, bash, sql"]
+  },
+  {
     "username": "Yudi",
     "about": "É virose",
     "year": "2020",
