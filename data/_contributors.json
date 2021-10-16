@@ -40,5 +40,11 @@
     "about": "Só sei que nada sei",
     "year": "2019",
     "languages": ["Javascript", "C"]
+  },
+  {
+    "username": "LuanaMarq",
+    "about": "E vamos de ACC",
+    "year": "2018",
+    "languages": ["Javascript", "Java", "Angular"]
   }
 ]
