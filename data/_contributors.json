@@ -46,5 +46,11 @@
     "about": "E vamos de ACC",
     "year": "2018",
     "languages": ["Javascript", "Java", "Angular"]
+  },
+  {
+    "username": "glyve99",
+    "about": "pfv deus me faz passar no tcc",
+    "year": "2018",
+    "languages": ["Python, Go, Javascript, Rust, C++"]
   }
 ]
