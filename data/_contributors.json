@@ -136,5 +136,12 @@
     "about": "Rusteando",
     "year": "2020",
     "languages": ["Python", "Javascript", "Rust", "MySQL"]
+  },
+  {
+    "username": "yingyangtongxue",
+    "about": "Fériaaas, Cadê vc????",
+    "year": "2019",
+    "languages": ["Python", "Javascript", "Java", "C"]
   }
+]
 ]
