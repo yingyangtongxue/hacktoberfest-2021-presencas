@@ -52,5 +52,11 @@
     "about": "pfv deus me faz passar no tcc",
     "year": "2018",
     "languages": ["Python, Go, Javascript, Rust, C++"]
+  },
+  {
+    "username": "MinorLess",
+    "about": "Hello",
+    "year": "2019",
+    "languages": ["Javascript", "Python", "C"]
   }
 ]
