@@ -130,5 +130,11 @@
     "about": "Desespero",
     "year": "2021",
     "languages": ["C"]
+  },
+  {
+    "username": "becelli",
+    "about": "Rusteando",
+    "year": "2020",
+    "languages": ["Python", "Javascript", "Rust", "MySQL"]
   }
 ]
