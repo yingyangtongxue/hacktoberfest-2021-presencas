@@ -76,5 +76,11 @@
     "about": "oii",
     "year": "2019",
     "languages": ["Javascript"]
+  },
+  {
+    "username": "marble-zone",
+    "about": "Linguagens informais e prática da computação",
+    "year": "2019",
+    "languages": ["Python, C, C++"]
   }
 ]
